@@ -1,4 +1,3 @@
-from cProfile import label
 import tkinter as tk
 from tkinter import Canvas, filedialog, Text
 import os
